@@ -1,15 +1,10 @@
-# Défense du système étatique dans les négociations franco-suisses sur le secteur pharmaceutique (1976-1980)
+# Portfolio de recherche
 
-Travail de recherche en archives réalisé dans le cadre d'un cours de master en histoire économique internationale (Université de Genève).
+Recherches menées pendant mon master en histoire économique internationale (Université de Genève) : analyses qualitatives d'archives et travaux de recherche en sciences sociales. Chaque dossier présente la question, la méthode et le rapport final. Les corpus d'archives ne sont pas publiés.
 
-## Question
-Comment l'État français et l'État suisse défendent-ils leur système national de fixation des prix des médicaments face aux industries pharmaceutiques et aux contraintes du commerce international ?
+| Dossier | Sujet | Sources |
+|---|---|---|
+| [01-negociations-franco-suisses](01-negociations-franco-suisses) | Défense du système étatique dans les négociations franco-suisses sur le secteur pharmaceutique (1976-1980) | Procès-verbaux, presse, correspondances |
+| [02-pologne-therapie-de-choc](02-pologne-therapie-de-choc) | La Pologne et la thérapie de choc (1989-1995) | Archives du FMI, statistiques |
 
-## Méthode
-Analyse qualitative d'un corpus d'archives : procès-verbaux du groupe de travail franco-suisse, articles de presse, correspondances entre acteurs suisses (1976-1980). Lecture à partir de la théorie marxiste de l'État.
-
-## Note sur les sources
-Le corpus d'archives n'est pas publié dans ce dépôt. Seul le rapport final est disponible.
-
-## Contenu
-- `Defense_systeme_etatique_franco-suisse.pdf` : le rapport (7 pages)
+Mes analyses quantitatives en R sont dans le dépôt [portfolio-quanti](https://github.com/dhueda/portfolio-quanti).
